@@ -170,6 +170,3 @@ edutrack/
 | Excel import fails | Check that sheet names match exactly (case-sensitive) |
 
 ---
-
-## License
-MIT — free to use and modify.
