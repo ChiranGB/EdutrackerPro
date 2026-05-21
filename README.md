@@ -1,6 +1,6 @@
 # EduTrack Desktop App
 
-Student, Assignment, Payment & Lab Credential Tracker — Electron + SQLite desktop application.
+Freelancer's Student, Assignment, Payment Tracker — Electron + SQLite desktop application.
 
 ---
 
